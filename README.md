@@ -1,2 +1,21 @@
-# CMSC-341-Robot-Swarm-BST-AVL-Splay
-This C++ project simulates a robot swarm using Binary Search Trees (BST), self-balancing AVL trees, and Splay trees.
+## AUTHORING: 
+* Leah Arfa
+* UMBC, CMSC 341 (Data Structures), Fall 2024
+* October 22, 2024
+
+## PURPOSE OF SOFTWARE: 
+.
+  
+## FILES: 
+* .
+
+## BUILD INSTRUCTIONS: 
+.
+
+## TESTING METHODOLOGY: 
+1.  .
+
+## ADDITIONAL INFORMATION:
+* .
+
+
