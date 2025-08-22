@@ -21,10 +21,18 @@ This C++ project simulates a robot swarm using multiple tree data structures: Bi
     ```
     ./driver
     ```
-3. **Output Verification:** The program's output will show the tree dump afte various operations.
+3. **Output Verification:** The program's output will show the tree dump after various operations.
 
 ## TESTING METHODOLOGY: 
-1.  .
+1.  **Compilation:** Compile the ```mytest.cpp``` file and ```swarm.cpp``` file using the ```g++``` compiler:
+    ```
+    g++ -g mytest.cpp swarm.cpp -o test
+    ```
+2.  **Execution:** Run the generated executable from the terminal using the command:
+    ```
+    ./test
+    ```
+3. **Output Verification:** ...
 
 ## ADDITIONAL INFORMATION:
 * .
